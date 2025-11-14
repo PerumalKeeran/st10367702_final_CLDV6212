@@ -1,0 +1,7 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "ewMjKbdCUz4DC4wOEHJMdpspyrU4b8lXkRuKE3qcEUmyPe+6IIkzFMZEsuPhe8rPOVRxPtvMGWys+AStkIA61Q==",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated"
+  }
+}
